@@ -2,4 +2,7 @@
     <string name="app_name">UdacityFirstProjektStock</string>
     <string name="Microsoft">Microsoft</string>
     <string name="MSFT">MSFT</string>
+    <string name="StockGraph">Stock of MSFT</string>
+    <string name="Growth">Five Year Growth:</string>
+    <string name="GrowthValue">319,17 %</string>
 </resources>
