@@ -5,4 +5,9 @@
     <string name="StockGraph">Stock of MSFT</string>
     <string name="Growth">Five Year Growth:</string>
     <string name="GrowthValue">319,17 %</string>
+    <string name="InvestedNow">10.000 Invested</string>
+    <string name="Current">Would be:</string>
+    <string name="NumberCurrent">3.191.700 $</string>
+    <string name="InvestedTeeeen">10.000 $</string>
+    <string name="InvestedWouldBe">10.000 $ would be:</string>
 </resources>
