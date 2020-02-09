@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UdacityFirstProjektStock</string>
+    <string name="Microsoft">Microsoft</string>
+    <string name="MSFT">MSFT</string>
 </resources>
