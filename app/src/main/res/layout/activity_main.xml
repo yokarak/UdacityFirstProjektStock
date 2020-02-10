@@ -110,6 +110,12 @@
                 android:text="@string/Growth"
                 android:textSize="24sp" />
 
+            <View
+                android:id="@+id/divider6"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#000000" />
+
             <TextView
                 android:id="@+id/textView5"
                 android:layout_width="match_parent"
@@ -119,6 +125,13 @@
                 android:text="@string/InvestedWouldBe"
                 android:textSize="24sp" />
         </LinearLayout>
+
+
+        <View
+            android:id="@+id/divider8"
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#000000" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -135,6 +148,12 @@
                 android:text="@string/GrowthValue"
                 android:textSize="24sp" />
 
+            <View
+                android:id="@+id/divider7"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#000000" />
+
             <TextView
                 android:id="@+id/textView7"
                 android:layout_width="match_parent"
@@ -144,6 +163,19 @@
                 android:text="@string/NumberCurrent"
                 android:textSize="24sp" />
         </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        app:layout_constraintTop_toBottomOf="@id/LinearThree"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Description" />
     </LinearLayout>
 
 
