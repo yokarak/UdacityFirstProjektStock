@@ -71,7 +71,7 @@
             android:layout_height="226dp"
             android:contentDescription="@string/StockGraph"
             android:scaleType="fitXY"
-            app:srcCompat="@drawable/MSFT5Year" />
+            app:srcCompat="@drawable/msft" />
         <View
 
             android:id="@+id/divider4"
